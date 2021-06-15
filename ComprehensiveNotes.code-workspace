@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"markdownlint.config": {
+			"MD034": false
+		}
+	}
 }
